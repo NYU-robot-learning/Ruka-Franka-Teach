@@ -1,4 +1,4 @@
-# Franka-Teach
+# RUKA-Franka-Teach
 
 Bi-Manual Franka 3 robot setup.
 
